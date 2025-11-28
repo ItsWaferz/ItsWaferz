@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I’m a student at UBB studying Information Engineering, passionate about tech and everything related to programming. I enjoy experimenting with different languages and learning new things along the way. I work with C++, Java, Python, and I also feel at home with web technologies like HTML, CSS, JavaScript, and SQL.<br><br>On my GitHub, you’ll find projects I work on during my free time or for university. I love solving problems, exploring new technologies, and constantly improving my skills.<br><br>If you’ve made it to my profile, welcome! Feel free to check out what I’ve been working on, and who knows—maybe we’ll build something cool together. 🚀
+Hey there! I’m a student at UBB studying Information Engineering, passionate about tech and everything related to programming. I enjoy experimenting with different languages and learning new things along the way. I work with C++, Java, Python, and I also feel at home with web technologies like HTML, CSS, JavaScript, and SQL and have recently started working with Xcode.<br><br>On my GitHub, you’ll find projects I work on during my free time or for university. I love solving problems, exploring new technologies, and constantly improving my skills.<br><br>If you’ve made it to my profile, welcome! Feel free to check out what I’ve been working on, and who knows—maybe we’ll build something cool together. 🚀
 
 
 ## 🌐 Socials:
@@ -12,7 +12,6 @@ Hey there! I’m a student at UBB studying Information Engineering, passionate a
 ![](https://nirzak-streak-stats.vercel.app/?user=ItsWaferz&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsWaferz&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
